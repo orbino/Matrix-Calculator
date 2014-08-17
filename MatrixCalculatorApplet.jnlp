@@ -12,6 +12,6 @@
       name="Matrix Calculator Applet"
       width="774"
       height="334"
-      main-class="matrixCalculator.CalculatorApplet">
+      main-class="CalculatorApplet">
    </applet-desc>
 </jnlp>
