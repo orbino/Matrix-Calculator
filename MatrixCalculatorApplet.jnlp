@@ -5,13 +5,13 @@
       <vendor>Alain Orbino</vendor>
    </information>
    <resources>
-      <j2se version="1.6+" />
-      <jar href="Matrix Calculator Applet.jar" main="true" />
+      <j2se version="1.7" />
+      <jar href="MatrixCalculatorApplet.jar" main="true" />
    </resources>
    <applet-desc
-      name="Matrix Calculator Applet"
+      name="MatrixCalculatorApplet"
       width="774"
       height="334"
-      main-class="CalculatorApplet">
+      main-class="matrixCalculator/CalculatorApplet">
    </applet-desc>
 </jnlp>
