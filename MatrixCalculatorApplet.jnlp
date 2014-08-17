@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp href="MatrixCalculatorApplet.jnlp">
+   <information>
+      <title>Matrix Calculator Applet</title>
+      <vendor>Alain Orbino</vendor>
+   </information>
+   <resources>
+      <j2se version="1.6+" />
+      <jar href="Matrix Calculator Applet.jar" main="true" />
+   </resources>
+   <applet-desc
+      name="Matrix Calculator Applet"
+      width="774"
+      height="334"
+      main-class="matrixCalculator.CalculatorApplet">
+   </applet-desc>
+</jnlp>
