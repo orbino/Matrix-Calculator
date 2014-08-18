@@ -8,9 +8,6 @@
       <j2se version="1.7" />
       <jar href="MatrixCalculatorApplet.jar" main="true" />
    </resources>
-   <security>
-      <sandbox/>
-   </security>
    <applet-desc
       name="MatrixCalculatorApplet"
       width="774"
