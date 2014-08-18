@@ -9,7 +9,7 @@
       <jar href="MatrixCalculatorApplet.jar" main="true" />
    </resources>
    <security>
-      <sandbox>
+      <sandbox/>
    </security>
    <applet-desc
       name="MatrixCalculatorApplet"
